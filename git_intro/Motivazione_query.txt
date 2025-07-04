@@ -6,3 +6,5 @@ Il motivo per cui abbiamo scelto queste è perché ……..
 i risultati sono all'interno dei parametri/ non rientrano nei parametri....
 
 Sarà per valori estremi?
+
+Probabilmente, Abbiamo bisogno di più dati
